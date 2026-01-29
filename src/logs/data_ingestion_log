@@ -1,0 +1,5 @@
+2026-01-29 15:20:36,368 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-01-29 15:20:36,382 - data_ingestion - DEBUG - Data pre-processing completed
+2026-01-29 15:22:09,150 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-01-29 15:22:09,152 - data_ingestion - DEBUG - Data pre-processing completed
+2026-01-29 15:22:09,178 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
