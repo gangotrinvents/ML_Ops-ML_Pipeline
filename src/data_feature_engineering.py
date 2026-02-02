@@ -101,7 +101,9 @@ def save_data(df: pd.DataFrame, file_path: str) -> None:
         raise
 
 def main():
-    try:    
+    try:   
+
+        # No of features/columns we need after the vectorization 
         max_features = 100
 
         train_data = load_data('./data/intermediate/train_processed.csv')
