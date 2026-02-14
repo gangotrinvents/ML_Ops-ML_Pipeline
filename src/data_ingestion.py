@@ -18,7 +18,7 @@ console_handler = logging.StreamHandler() # we are having console handler
 console_handler.setLevel('DEBUG') # Assign Debug level to our console handler
 
 # File Handler configuration
-log_file_path = os.path.join(log_dir, 'data_ingestion_log') # path to file logger creation
+log_file_path = os.path.join(log_dir, 'data_ingestion.log') # path to file logger creation
 file_handler = logging.FileHandler(log_file_path) # creating file logger
 file_handler.setLevel('DEBUG') # Assign Debug to our file handler
 

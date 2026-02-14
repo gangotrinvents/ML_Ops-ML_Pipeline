@@ -27,7 +27,7 @@ logger.setLevel('DEBUG')
 console_handler = logging.StreamHandler()
 console_handler.setLevel('DEBUG')
 
-file_handler_path = os.path.join(log_dir,'data_feature_engineering_log')
+file_handler_path = os.path.join(log_dir,'data_feature_engineering.log')
 file_handler = logging.FileHandler(file_handler_path)
 file_handler.setLevel('DEBUG')
 

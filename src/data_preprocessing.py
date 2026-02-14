@@ -42,7 +42,7 @@ console_handler.setLevel('DEBUG')
 
 # File Handler configuration
     # create the file where to save logs
-log_file_path = os.path.join(log_dir,'data_preprocessing_log')
+log_file_path = os.path.join(log_dir,'data_preprocessing.log')
 file_handler = logging.FileHandler(log_file_path)
 file_handler.setLevel('DEBUG')
 
