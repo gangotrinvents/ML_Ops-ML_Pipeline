@@ -3,3 +3,14 @@ Building Pipeline:
 2. Add src folder along with all components (Run them individualy)
 3. Add data, models, reports directories to .gitignore file
 4. Now git add, commit, push
+
+
+setting up DVC pipeline (without params) using yaml format
+till now we have cretaed the every sectin separately like, 
+ingestion, preprocessing, feature engineering, model training, etc
+
+now there two we to create pipelin to call all these section in sequence 
+        1. Python file
+        2. yaml file using dvc
+5. create dvc.yaml file and add stages to it
+6. dvc init them do dvc 

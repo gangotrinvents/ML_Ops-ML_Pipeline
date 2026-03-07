@@ -1,0 +1,4 @@
+,order_id,customer_id,product_id,quantity,price,order_date,revenue,high_val_order,datetime,year,month,day,result_Day
+4,105,3,11,1,500,2024-03-01,500,False,2024-03-01,2024,3,1,14
+0,101,1,11,2,500,2024-01-05,1000,False,2024-01-05,2024,1,5,70
+1,102,1,12,1,1200,2024-01-09,1200,False,2024-01-09,2024,1,9,66
