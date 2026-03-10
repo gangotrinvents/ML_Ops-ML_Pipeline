@@ -1,0 +1,17 @@
+2026-03-07 21:24:42,749 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-03-07 21:24:42,783 - data_ingestion - DEBUG - Data pre-processing completed
+2026-03-07 21:24:43,247 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-07 21:47:47,107 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-03-07 21:47:47,124 - data_ingestion - DEBUG - Data pre-processing completed
+2026-03-07 21:47:47,158 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-07 21:52:08,532 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-03-07 21:52:08,577 - data_ingestion - DEBUG - Data pre-processing completed
+2026-03-07 21:52:08,682 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-10 23:39:40,474 - data_ingestion - DEBUG - Prameters loaded from params.yaml
+2026-03-10 23:39:42,015 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-03-10 23:39:42,031 - data_ingestion - DEBUG - Data pre-processing completed
+2026-03-10 23:39:42,064 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-10 23:55:43,449 - data_ingestion - DEBUG - Prameters loaded from params.yaml
+2026-03-10 23:55:43,951 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/gangotrinvents/ML_Ops-ML_Pipeline/refs/heads/main/Experiment/spam.csv
+2026-03-10 23:55:43,952 - data_ingestion - DEBUG - Data pre-processing completed
+2026-03-10 23:55:43,976 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

@@ -1,0 +1,107 @@
+2026-02-14 19:05:02,879 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:09:20,585 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:09:20,804 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:11:03,646 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:11:03,678 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:12:41,298 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:12:41,326 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:12:41,366 - model_evaluation - ERROR - Unexpected Error occured while evaluating the metrics: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:12:41,367 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:13:20,010 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:13:20,037 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:13:20,069 - model_evaluation - ERROR - Unexpected Error occured while evaluating the metrics: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:13:20,070 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:14:30,578 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:14:30,607 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:14:30,636 - model_evaluation - ERROR - Unexpected Error occured while evaluating the metrics: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:14:30,637 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:14:55,860 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:14:55,886 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:14:55,917 - model_evaluation - ERROR - Unexpected Error occured while evaluating the metrics: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:14:55,918 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: y should be a 1d array, got an array of shape (1101, 2) instead.
+2026-02-14 19:30:42,025 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:30:42,053 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:30:42,084 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-02-14 19:30:42,085 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: save_metrics() missing 1 required positional argument: 'file_path'
+2026-02-14 19:31:51,409 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:31:51,436 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:31:51,460 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-02-14 19:31:51,461 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: save_metrics() missing 1 required positional argument: 'file_path'
+2026-02-14 19:32:14,398 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-02-14 19:32:14,424 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-02-14 19:32:14,456 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-02-14 19:32:14,459 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-07 21:59:10,860 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-07 21:59:10,999 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-07 21:59:11,025 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-07 21:59:11,027 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:16:10,441 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:16:10,598 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:16:10,627 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:16:10,628 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:16:10,629 - model_evaluation - ERROR - Param.yaml file not found: [Errno 2] No such file or directory: 'params_path'
+2026-03-11 00:16:10,629 - model_evaluation - ERROR - File not found on location: [Errno 2] No such file or directory: 'params_path'
+2026-03-11 00:17:42,476 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:17:42,500 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:17:42,525 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:17:42,527 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:17:42,528 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: load_params() got an unexpected keyword argument 'param_path'. Did you mean 'params_path'?
+2026-03-11 00:18:09,815 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:18:09,841 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:18:09,874 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:18:09,876 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:18:09,877 - model_evaluation - ERROR - Param.yaml file not found: [Errno 2] No such file or directory: 'params_path'
+2026-03-11 00:18:09,878 - model_evaluation - ERROR - File not found on location: [Errno 2] No such file or directory: 'params_path'
+2026-03-11 00:19:26,865 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:19:26,890 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:19:26,926 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:19:26,927 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:19:26,930 - model_evaluation - DEBUG - Loading parameters from paraml.yaml: params.yaml
+2026-03-11 00:19:29,931 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+
+2026-03-11 00:20:13,971 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:20:13,995 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:20:14,024 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:20:14,025 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:20:14,040 - model_evaluation - DEBUG - Loading parameters from paraml.yaml: params.yaml
+2026-03-11 00:20:14,931 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+
+2026-03-11 00:20:51,880 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:20:51,904 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:20:51,936 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:20:51,938 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:20:51,942 - model_evaluation - DEBUG - Loading parameters from paraml.yaml: params.yaml
+2026-03-11 00:20:53,201 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+
+2026-03-11 00:21:28,645 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:21:28,669 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:21:28,698 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:21:28,699 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:21:28,702 - model_evaluation - DEBUG - Loading parameters from paraml.yaml: params.yaml
+2026-03-11 00:21:30,130 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+
+2026-03-11 00:26:58,916 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:26:58,971 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:26:59,045 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:26:59,048 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:26:59,050 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: params_load() got an unexpected keyword argument 'params_path'. Did you mean 'param_path'?
+2026-03-11 00:27:49,639 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:27:49,677 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:27:49,734 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:27:49,736 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:27:49,740 - model_evaluation - DEBUG - Parameter loaded from path: params.yaml
+2026-03-11 00:27:51,616 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+
+2026-03-11 00:28:21,172 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:28:21,208 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:28:21,257 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:28:21,259 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:28:21,261 - model_evaluation - ERROR - File not Found while looking for Prams.yaml: [Errno 2] No such file or directory: 'params.yaml'
+2026-03-11 00:28:21,261 - model_evaluation - ERROR - File not found on location: [Errno 2] No such file or directory: 'params.yaml'
+2026-03-11 00:33:00,655 - model_evaluation - DEBUG - Model is loaded from: models/model.pkl
+2026-03-11 00:33:00,696 - model_evaluation - DEBUG - Data loaded from data/processed/test_tfidf.csv
+2026-03-11 00:33:00,743 - model_evaluation - DEBUG - Evaluation metrics has been  calculated
+2026-03-11 00:33:00,745 - model_evaluation - DEBUG - Metrics saved on the location: metrics/metrics.json
+2026-03-11 00:33:00,748 - model_evaluation - DEBUG - Parameter loaded from path: params.yaml
+2026-03-11 00:33:02,954 - model_evaluation - ERROR - Unexpected Error occured while model evaluation process: could not rmdir 'E:/ML Ops/ML_Ops-ML_Pipeline/src/': The process cannot access the file because it is being used by another process.
+

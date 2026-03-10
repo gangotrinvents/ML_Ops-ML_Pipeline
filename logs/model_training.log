@@ -1,0 +1,278 @@
+2026-02-13 21:33:38,912 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:33:38,920 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:33:38,920 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:33:39,337 - model_training - DEBUG - Model training completed
+2026-02-13 21:33:39,338 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:33:39,339 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:35:48,897 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:35:48,914 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:35:48,914 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:35:49,230 - model_training - DEBUG - Model training completed
+2026-02-13 21:35:49,231 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:35:49,232 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:37:25,172 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:37:25,174 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:37:25,175 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:37:25,449 - model_training - DEBUG - Model training completed
+2026-02-13 21:37:25,450 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:37:25,450 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:37:44,515 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:37:44,518 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:37:44,518 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:37:44,903 - model_training - DEBUG - Model training completed
+2026-02-13 21:37:44,904 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:37:44,904 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:38:20,878 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:38:20,881 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:38:20,881 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:38:21,225 - model_training - DEBUG - Model training completed
+2026-02-13 21:38:21,227 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:38:21,228 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:39:45,863 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:39:45,865 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:39:45,866 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:39:46,243 - model_training - DEBUG - Model training completed
+2026-02-13 21:39:46,243 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:39:46,244 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:41:57,604 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:41:57,607 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:41:57,608 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:41:57,916 - model_training - DEBUG - Model training completed
+2026-02-13 21:41:57,917 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:41:57,918 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:46:12,688 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:46:12,705 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:46:12,705 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:46:12,959 - model_training - DEBUG - Model training completed
+2026-02-13 21:46:12,960 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:46:12,960 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:46:40,144 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:46:40,146 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:46:40,147 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:46:40,469 - model_training - DEBUG - Model training completed
+2026-02-13 21:46:40,469 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:46:40,470 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:47:02,545 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:47:02,547 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:47:02,547 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:47:02,847 - model_training - DEBUG - Model training completed
+2026-02-13 21:47:02,848 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:47:02,849 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:47:23,263 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:47:23,265 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:47:23,265 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:47:23,603 - model_training - DEBUG - Model training completed
+2026-02-13 21:47:23,604 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:47:23,605 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 21:53:47,896 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:53:47,912 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:53:47,913 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:53:48,188 - model_training - DEBUG - Model training completed
+2026-02-13 21:53:48,189 - model_training - ERROR - File path not found [WinError 3] The system cannot find the path specified: ''
+2026-02-13 21:53:48,190 - model_training - ERROR - Unexpected error occured and failed to completed model building [WinError 3] The system cannot find the path specified: ''
+2026-02-13 21:55:37,946 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:55:37,950 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:55:37,951 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:55:38,350 - model_training - DEBUG - Model training completed
+2026-02-13 21:55:38,375 - model_training - DEBUG - Model saved to E:\ML Ops\ML_Ops-ML_Pipeline\src\models
+2026-02-13 21:55:38,375 - model_training - DEBUG - Model is saved at E:\ML Ops\ML_Ops-ML_Pipeline\src\models
+2026-02-13 21:56:54,902 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:56:54,904 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:56:54,904 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:56:55,258 - model_training - DEBUG - Model training completed
+2026-02-13 21:56:55,259 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:56:55,260 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:05,106 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:59:05,109 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:59:05,110 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:59:05,365 - model_training - DEBUG - Model training completed
+2026-02-13 21:59:05,366 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:05,367 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:20,599 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:59:20,601 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:59:20,602 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:59:20,903 - model_training - DEBUG - Model training completed
+2026-02-13 21:59:20,904 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:20,904 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:47,041 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 21:59:47,044 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 21:59:47,044 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 21:59:47,399 - model_training - DEBUG - Model training completed
+2026-02-13 21:59:47,400 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 21:59:47,401 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 22:05:04,827 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:05:04,830 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:05:04,838 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:05:05,094 - model_training - DEBUG - Model training completed
+2026-02-13 22:05:05,095 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 22:05:05,096 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 22:08:27,359 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:08:27,374 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:08:27,375 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:08:27,785 - model_training - DEBUG - Model training completed
+2026-02-13 22:08:27,787 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 22:08:27,787 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'E:\\ML Ops\\ML_Ops-ML_Pipeline\\src\\models'
+2026-02-13 22:13:11,825 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:13:11,827 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:13:11,827 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:13:12,113 - model_training - DEBUG - Model training completed
+2026-02-13 22:13:12,115 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:13:12,116 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:15:53,228 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:15:53,231 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:15:53,232 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:15:53,455 - model_training - DEBUG - Model training completed
+2026-02-13 22:15:53,456 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:15:53,457 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:21:26,829 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:21:26,832 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:21:26,833 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:21:27,250 - model_training - DEBUG - Model training completed
+2026-02-13 22:21:27,251 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:21:27,252 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:30:14,919 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:30:14,926 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:30:14,926 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:30:15,244 - model_training - DEBUG - Model training completed
+2026-02-13 22:30:15,246 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:30:15,247 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model.pkl'
+2026-02-13 22:34:32,320 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-13 22:34:32,324 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-13 22:34:32,325 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-13 22:34:32,666 - model_training - DEBUG - Model training completed
+2026-02-13 22:34:32,769 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-13 22:34:32,770 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:05:18,491 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:05:18,496 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:05:18,497 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:05:19,076 - model_training - DEBUG - Model training completed
+2026-02-14 00:05:19,081 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:05:19,082 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:07:30,517 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:07:30,523 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:07:30,524 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:07:30,862 - model_training - DEBUG - Model training completed
+2026-02-14 00:07:30,862 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:07:30,863 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:08:17,770 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:08:17,773 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:08:17,773 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:08:18,101 - model_training - DEBUG - Model training completed
+2026-02-14 00:08:18,102 - model_training - ERROR - Unexpected error occured while saving the model [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:08:18,103 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:09:21,006 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:09:21,008 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:09:21,009 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:09:21,273 - model_training - DEBUG - Model training completed
+2026-02-14 00:09:21,275 - model_training - ERROR - Error occurred while saving the model: [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:09:21,275 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 13] Permission denied: 'models/model1.pkl'
+2026-02-14 00:15:22,514 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:15:22,534 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:15:22,535 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:15:22,813 - model_training - DEBUG - Model training completed
+2026-02-14 00:15:22,814 - model_training - ERROR - File path not found [WinError 3] The system cannot find the path specified: ''
+2026-02-14 00:15:22,815 - model_training - ERROR - Unexpected error occured and failed to completed model building [WinError 3] The system cannot find the path specified: ''
+2026-02-14 00:22:54,893 - model_training - ERROR - File not found: [Errno 2] No such file or directory: './src/data/processed/train_tfidf.csv'
+2026-02-14 00:22:56,646 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 2] No such file or directory: './src/data/processed/train_tfidf.csv'
+2026-02-14 00:23:22,721 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:23:22,723 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:23:22,724 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:23:23,014 - model_training - DEBUG - Model training completed
+2026-02-14 00:23:23,017 - model_training - DEBUG - Model saved to models/model.pkl
+2026-02-14 00:23:23,018 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-02-14 00:23:42,042 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:23:42,045 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:23:42,045 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:23:42,376 - model_training - DEBUG - Model training completed
+2026-02-14 00:23:42,379 - model_training - DEBUG - Model saved to models/model.pkl
+2026-02-14 00:23:42,380 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-02-14 00:30:34,728 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:30:34,830 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:30:34,831 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:30:35,095 - model_training - DEBUG - Model training completed
+2026-02-14 00:30:35,235 - model_training - DEBUG - Model saved to /models/model.pkl
+2026-02-14 00:30:35,235 - model_training - DEBUG - Model is saved at /models/model.pkl
+2026-02-14 00:31:57,750 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:31:57,753 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:31:57,753 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:31:58,096 - model_training - DEBUG - Model training completed
+2026-02-14 00:31:59,744 - model_training - DEBUG - Model saved to /models/model.pkl
+2026-02-14 00:31:59,745 - model_training - DEBUG - Model is saved at /models/model.pkl
+2026-02-14 00:32:59,008 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:32:59,011 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:32:59,012 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:32:59,352 - model_training - DEBUG - Model training completed
+2026-02-14 00:32:59,357 - model_training - DEBUG - Model saved to /models/model.pkl
+2026-02-14 00:32:59,357 - model_training - DEBUG - Model is saved at /models/model.pkl
+2026-02-14 00:34:04,946 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:34:04,948 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:34:04,949 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:34:05,303 - model_training - DEBUG - Model training completed
+2026-02-14 00:34:05,309 - model_training - DEBUG - Model saved to /models/model.pkl
+2026-02-14 00:34:05,309 - model_training - DEBUG - Model is saved at /models/model.pkl
+2026-02-14 00:43:01,520 - model_training - ERROR - File not found: [Errno 2] No such file or directory: './src/data/processed/train_tfidf.csv'
+2026-02-14 00:43:01,614 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 2] No such file or directory: './src/data/processed/train_tfidf.csv'
+2026-02-14 00:43:14,070 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:43:14,073 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:43:14,074 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:43:14,348 - model_training - DEBUG - Model training completed
+2026-02-14 00:43:14,352 - model_training - DEBUG - Model saved to src/models/model.pkl
+2026-02-14 00:43:14,352 - model_training - DEBUG - Model is saved at src/models/model.pkl
+2026-02-14 00:44:01,417 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:44:01,420 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:44:01,421 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:44:01,842 - model_training - DEBUG - Model training completed
+2026-02-14 00:44:03,360 - model_training - DEBUG - Model saved to src/models/model.pkl
+2026-02-14 00:44:03,361 - model_training - DEBUG - Model is saved at src/models/model.pkl
+2026-02-14 00:44:34,111 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-02-14 00:44:34,114 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-02-14 00:44:34,114 - model_training - DEBUG - Model training started with 4152 samples
+2026-02-14 00:44:34,482 - model_training - DEBUG - Model training completed
+2026-02-14 00:44:34,488 - model_training - DEBUG - Model saved to models/model.pkl
+2026-02-14 00:44:34,489 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-07 21:53:08,747 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-07 21:53:08,920 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-07 21:53:08,921 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-07 21:53:09,386 - model_training - DEBUG - Model training completed
+2026-03-07 21:53:09,392 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-07 21:53:09,392 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-07 21:54:26,275 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-07 21:54:26,278 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-07 21:54:26,278 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-07 21:54:26,625 - model_training - DEBUG - Model training completed
+2026-03-07 21:54:26,630 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-07 21:54:26,631 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-07 21:59:05,708 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-07 21:59:05,710 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-07 21:59:05,711 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-07 21:59:06,041 - model_training - DEBUG - Model training completed
+2026-03-07 21:59:06,045 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-07 21:59:06,046 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-10 23:53:13,304 - model_training - ERROR - File not Found while looking for Prams.yaml: [Errno 2] No such file or directory: 'params/yaml'
+2026-03-10 23:53:13,401 - model_training - ERROR - Unexpected error occured and failed to completed model building [Errno 2] No such file or directory: 'params/yaml'
+2026-03-10 23:53:28,530 - model_training - DEBUG - Parameter loaded from path: params.yaml
+2026-03-10 23:53:28,590 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-10 23:53:28,595 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'data_ingestion': {'test_size': 0.2}, 'data_feature_engineering': {'max_feature': 100}, 'model_training': {'n_estimators': 25, 'random_state': 2}}
+2026-03-10 23:53:28,595 - model_training - ERROR - Unexpected error while model training: 'n_estimators'
+2026-03-10 23:53:28,596 - model_training - ERROR - Unexpected error occured and failed to completed model building 'n_estimators'
+2026-03-10 23:54:27,560 - model_training - DEBUG - Parameter loaded from path: params.yaml
+2026-03-10 23:54:27,610 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-10 23:54:27,612 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-10 23:54:27,612 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-10 23:54:27,881 - model_training - DEBUG - Model training completed
+2026-03-10 23:54:27,885 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-10 23:54:27,886 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-10 23:54:50,345 - model_training - DEBUG - Parameter loaded from path: params.yaml
+2026-03-10 23:54:50,418 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-10 23:54:50,422 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-10 23:54:50,423 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-10 23:54:50,848 - model_training - DEBUG - Model training completed
+2026-03-10 23:54:50,855 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-10 23:54:50,856 - model_training - DEBUG - Model is saved at models/model.pkl
+2026-03-10 23:55:52,074 - model_training - DEBUG - Parameter loaded from path: params.yaml
+2026-03-10 23:55:52,149 - model_training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 101): 
+2026-03-10 23:55:52,151 - model_training - DEBUG - Intializing RandomForecast model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-03-10 23:55:52,152 - model_training - DEBUG - Model training started with 4152 samples
+2026-03-10 23:55:52,452 - model_training - DEBUG - Model training completed
+2026-03-10 23:55:52,455 - model_training - DEBUG - Model saved to models/model.pkl
+2026-03-10 23:55:52,456 - model_training - DEBUG - Model is saved at models/model.pkl

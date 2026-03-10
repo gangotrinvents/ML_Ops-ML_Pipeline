@@ -1,0 +1,10 @@
+2026-03-07 21:52:19,029 - data_preprocessing - DEBUG - Data Fetched
+2026-03-07 21:52:19,030 - data_preprocessing - DEBUG - Starting Pre-Processing for DataFrame
+2026-03-07 21:52:19,035 - data_preprocessing - DEBUG - Taget column encoded
+2026-03-07 21:52:19,053 - data_preprocessing - DEBUG - Duplicate rows removed
+2026-03-07 21:52:47,810 - data_preprocessing - DEBUG - Text column Transformed
+2026-03-07 21:52:47,811 - data_preprocessing - DEBUG - Starting Pre-Processing for DataFrame
+2026-03-07 21:52:47,814 - data_preprocessing - DEBUG - Taget column encoded
+2026-03-07 21:52:47,817 - data_preprocessing - DEBUG - Duplicate rows removed
+2026-03-07 21:52:54,175 - data_preprocessing - DEBUG - Text column Transformed
+2026-03-07 21:52:54,257 - data_preprocessing - DEBUG - Processed data saved to ./data\intermediate
