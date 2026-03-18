@@ -1,0 +1,4 @@
+[core]
+    remote = dvcstore_name
+['remote "dvcstore_name"']
+    url = s3://gangotribucket
